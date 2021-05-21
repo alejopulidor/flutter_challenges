@@ -1,0 +1,62 @@
+[
+  {
+    "name": "X22 Lift",
+    "by": "Mastercraft",
+    "description": "Meet the highest-performing inboard waterski boat ever created.",
+    "image": "boat1.png",
+    "specs": {
+      "length": "32'",
+      "beam": "137\"",
+      "weigth": 3450,
+      "fuel_capacity": 400
+    }
+  },
+  {
+    "name": "X24 Fun",
+    "by": "Mastercraft",
+    "description": "Meet the highest-performing inboard waterski boat ever created.",
+    "image": "boat2.png",
+    "specs": {
+      "length": "27' 4\"",
+      "beam": "130\"",
+      "weigth": 3200,
+      "fuel_capacity": 350
+    }
+  },
+  {
+    "name": "X24 Force",
+    "by": "NeoKraft",
+    "description": "Meet the highest-performing inboard waterski boat ever created.",
+    "image": "boat3.png",
+    "specs": {
+      "length": "24' 2\"",
+      "beam": "102\"",
+      "weigth": 2767,
+      "fuel_capacity": 360
+    }
+  },
+  {
+    "name": "X21 Super",
+    "by": "AlejoKraft",
+    "description": "Meet the highest-performing inboard waterski boat ever created.",
+    "image": "boat4.png",
+    "specs": {
+      "length": "22' 1\"",
+      "beam": "102\"",
+      "weigth": 2500,
+      "fuel_capacity": 322
+    }
+  },
+  {
+    "name": "X17 Light",
+    "by": "AlejoKraft",
+    "description": "Meet the highest-performing inboard waterski boat ever created.",
+    "image": "boat5.png",
+    "specs": {
+      "length": "20' 6\"",
+      "beam": "96\"",
+      "weigth": 2200,
+      "fuel_capacity": 270
+    }
+  }
+]
