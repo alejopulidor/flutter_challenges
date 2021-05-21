@@ -1,7 +1,5 @@
 # My Flutter Challenges
 
-A new Flutter project.
-
 You can follow me on twitter [@alejopulidoru](https://www.twitter.com/alejopulidoru)
 
 ## Demo
